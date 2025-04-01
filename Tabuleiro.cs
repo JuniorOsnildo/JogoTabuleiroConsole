@@ -5,8 +5,6 @@ public class Tabuleiro
     public static void AttTabuleiro(int posicaoJogador, int posicaoBot, bool turno)
     {
         Console.Clear();
-        
-        Console.Clear();
         Console.WriteLine("('-') <- Você -> posição: " + posicaoJogador);
         Console.WriteLine("[ò_ó] <- Bot -> posição: "+posicaoBot);
         Console.WriteLine();
