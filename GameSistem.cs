@@ -3,7 +3,6 @@
 public class GameSistem
 {
     private bool FimDeJogo { get; set; }
-
     private int ModJogador {get; set;}
     private int ModBot { get; set; }
     private int posicaoJogador  {get; set;}
